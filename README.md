@@ -4,7 +4,10 @@ Ezen repository a Széchenyi István Egyetem **Mikroelektromechanikai rendszerek
 
 # **Bemutatás** 
 
-Egy Raspberry Pi alapú, AA_RASPBERRY_TWEETS nevezetű robot hoztunk létre, de ellentétben a Terminátor 3-ban látottakkal, rendkívül békés, sőt a mindennapi életünket nagyban segíti Tweetjeivel. Fegyver helyett egy kamerával és egy AM2302-DHT22 hőmérséklet- és páratartalom-szenzorral van felszerelve. A magyar nyelv mellett a Pythont érti meg. Hordozható, külseje fehér és piros színű.
+Egy Raspberry Pi alapú, AA_RASPBERRY_TWEETS nevezetű robot hoztunk létre, de ellentétben a Terminátor 3-ban látottakkal, rendkívül békés, sőt a mindennapi életünket nagyban segíti Tweetjeivel.
+
+
+Fegyver helyett egy kamerával és egy AM2302-DHT22 hőmérséklet- és páratartalom-szenzorral van felszerelve. A magyar nyelv mellett a Pythont érti meg. Hordozható, külseje fehér és piros színű.
 
 
 # **Varázslinkek**
