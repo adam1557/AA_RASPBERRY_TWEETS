@@ -13,7 +13,7 @@ Fegyver helyett egy kamerával és egy AM2302-DHT22 hőmérséklet- és páratar
 # **Varázslinkek**
 
 
-A Raspberryn futó **Python szkript** itt található: [->KATT<-](https://github.com/adam1557/AA_RASPBERRY_TWEETS/blob/main/Kód/python.py)
+A Raspberry-n futó **Python szkript** itt található: [->KATT<-](https://github.com/adam1557/AA_RASPBERRY_TWEETS/blob/main/Kód/python.py)
 
 
 A **fejlesztői dokumentáció** itt található: [->KATT<-](https://github.com/adam1557/AA_RASPBERRY_TWEETS/wiki/Fejlesztői-dokumentáció)
